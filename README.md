@@ -14,3 +14,6 @@ Delete your Amazon CloudFront distribution when it is no longer required
 
 
 ## CloudFront Distribution - Content Delivery Web Service
+...ci/cd in progress...
+
+![cloudfrontdist000.png](./media/cloudfrontdist000.png)
